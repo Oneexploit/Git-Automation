@@ -84,3 +84,52 @@ This tool automates the process of initializing Git repositories for multiple pr
 - گزارش‌دهی پیشرفت به صورت لحظه‌ای و دقیق‌تر.
 
 
+
+---
+## Türkçe
+# Tanıtım
+Bu araç, bir ana dizindeki birden fazla proje için Git depoları oluşturma sürecini otomatikleştirir, GitHub'da karşılık gelen depoları oluşturur ve projeleri uygun ayarlarla bu depoları gönderir. Birden fazla projenin aynı anda toplu işlenmesini destekler ve kullanıcı adı, e-posta, uzak adres (remote) ve dal yönetimi gibi ayarları yapılandırır.
+
+## Özellikler
+Birden fazla proje içeren ana dizini tarama.
+
+Proje adlarıyla GitHub deposunu otomatik oluşturma.
+
+Yerel depoyu başlatma ve kullanıcı bilgilerini ayarlama.
+
+Kodu GitHub'a ekleme, işleme (commit) ve gönderme (push).
+
+HTTPS ve SSH protokollerini destekleme.
+
+Dal yönetimi (oluşturma, yeniden adlandırma, geçiş yapma).
+
+Operasyonlar ve hatalar için detaylı kayıt tutma.
+
+### Gereksinimler
+Python 3.7 veya üzeri.
+
+PyGithub kütüphanesi (pip install PyGithub).
+
+Sistemde Git kurulu olması.
+
+GitHub depolarına erişim için kişisel erişim belirteci (token).
+
+### Kullanım
+Projelerinizi içeren bir ana dizin hazırlayın.
+
+GitHub kişisel erişim belirteci oluşturun.
+
+Aracı, dizin ve GitHub bilgilerini belirterek çalıştırın.
+
+Araç her projeyi işler, GitHub deposunu oluşturur ve kodu gönderir.
+
+### Gelecek Planları
+GitHub OAuth kimlik doğrulaması için kullanıcı arayüzü ekleme.
+
+Özel ve genel depo ayarlarını destekleme.
+
+Dal işlemlerini ve çakışma yönetimini iyileştirme.
+
+CI/CD sistemleriyle entegrasyon.
+
+Anlık ve daha detaylı ilerleme raporlaması.
