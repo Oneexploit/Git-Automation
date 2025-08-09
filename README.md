@@ -1,3 +1,18 @@
+# 🚀 Git - Automations 
+
+<div align="center">
+  <img src="logo.png" alt="Git-Automations Banner" width="800">
+  <br/><br/>
+
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-3.8%2B-blue" alt="Python Version">
+  </a>
+  <a href="https://github.com/psf/black">
+    <img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code Style">
+  </a>
+</div>
+
+---
 # Git Automation Tool
 
 ## English
@@ -67,4 +82,5 @@ This tool automates the process of initializing Git repositories for multiple pr
 - بهبود عملیات شاخه‌ها و مدیریت تعارض‌ها.
 - ادغام با سیستم‌های CI/CD.
 - گزارش‌دهی پیشرفت به صورت لحظه‌ای و دقیق‌تر.
+
 
