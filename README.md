@@ -67,3 +67,4 @@ This tool automates the process of initializing Git repositories for multiple pr
 - بهبود عملیات شاخه‌ها و مدیریت تعارض‌ها.
 - ادغام با سیستم‌های CI/CD.
 - گزارش‌دهی پیشرفت به صورت لحظه‌ای و دقیق‌تر.
+
